@@ -1,0 +1,18 @@
+【資料正規化】
+https://ithelp.ithome.com.tw/articles/10229472
+
+【SQL語法】
+https://www.1keydata.com/tw/sql/sql-syntax.html
+http://tw.gitbook.net/sql/index.html
+練習網站:
+https://sqlzoo.net/wiki/SELECT_basics/zh
+http://www.w3school.com.cn/sql/index.asp
+
+【資料型別】
+http://www.eion.com.tw/Blogger/?Pid=1155
+
+【SQL joins】
+https://vector.cool/mysql-%E5%9C%96%E8%A7%A3-left-join-inner-joinright-join-%E7%9A%84%E5%B7%AE%E7%95%B0%E5%8F%8A%E7%AF%84%E4%BE%8B/
+
+【ER model】
+https://ithelp.ithome.com.tw/articles/10270611?sc=iThelpR
